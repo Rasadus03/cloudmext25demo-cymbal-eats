@@ -35,8 +35,8 @@ function App() {
   const [orders, setOrders] = useState([]); // Filtered restaurants
 //  const {authenticateJWT, requestLogger} = require('./Auth');
   const config = {
-    apiKey: 'AIzaSyDWKDNl8iDQqIqGUk7cccdDydogBhdJV98',
-    authDomain: 'raniamoh-next25-demo.firebaseapp.com',
+    apiKey: 'xxx',
+    authDomain: 'xxxxx',
   };
   const firebase = initializeApp(config);
 
